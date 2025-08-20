@@ -16,7 +16,7 @@ Librerías externas
 - zod
 
 Capturas de pantalla
-![Pantalla principal](assets/screenshot%2025-08-13%1.png)
+![Pantalla principal](assets/screenshot%2025-08-20%1.png)
 
 Instalación
 - npm install
