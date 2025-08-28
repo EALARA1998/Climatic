@@ -1,5 +1,5 @@
 # Mi Ganancia
-- Aplicación web ver el clima de una ciudad.
+- Aplicación web para ver el clima de una ciudad.
 
 Tecnologías utilizadas
 - Vite
@@ -9,7 +9,7 @@ Tecnologías utilizadas
 - CSS
 
 Diseño y arquitectura
-- Recopilacion de la informacion de los climas por medio consultas a una api externa (OpenWeather).
+- Recopilacion de la informacion de los climas por medio de consultas a una api externa (OpenWeather).
 - Validacion de consultas con zod.
 
 Librerías externas
