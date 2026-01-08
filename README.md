@@ -1,4 +1,4 @@
-# Mi Ganancia
+# Climatic
 - Aplicación web para ver el clima de una ciudad.
 
 Tecnologías utilizadas
