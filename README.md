@@ -1,26 +1,35 @@
 # Climatic
-- Aplicación web para ver el clima de una ciudad.
 
-Tecnologías utilizadas
-- Vite
-- React
-- TypeScript
-- HTML
-- CSS
+A weather app built to display current weather data and forecasts using a public weather API.
 
-Diseño y arquitectura
-- Recopilacion de la informacion de los climas por medio de consultas a una api externa (OpenWeather).
-- Validacion de consultas con zod.
+## Features
+- API integration (openweathermap)
 
-Librerías externas
-- zod
+## Tech Stack
+- Frontend: React, TypeScript, Tailwind CSS
+- Validation: Zod
 
-Capturas de pantalla
-![Pantalla principal](assets/screenshot%2025-08-20%1.png)
+## Environment Variables
+Create a `.env` (backend) and `.env.local` (frontend) files in the root of the project and define the following variables:
 
-Instalación
+### Backend
+-
+
+### Frontend
+-
+
+## Installation & Setup
+
+### Backend
 - npm install
 - npm run dev
 
-Funcionalidades destacadas
-- Visualizacion de la temperatura de la ciudad solicitada.
+### Frontend
+- npm install
+- npm run dev
+
+## What I Learned
+- API integration.
+
+## Live Demo
+-
